@@ -7,7 +7,7 @@ This analysis aims to use an Amazon book reviews dataset to determine whether th
 	* 2 152 954 non-Vine reviews; 64% (1 373 115) were 5 stars
 	* 1 Vine review, 0% (0) 5 star 
 
-![Review Summary] (vine_review_ratios.png)
+![Review Summary](vine_review_ratios.png)
 
 ## Summary
 
